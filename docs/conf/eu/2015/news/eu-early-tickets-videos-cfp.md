@@ -19,11 +19,11 @@ share your experiences with us. We will be announcing the conference program on 
 
 ## Early-Bird Tickets Sold Out
 
-Both corporate and independent early-birt tickets have sold out. 
+Both corporate and independent early-bird tickets have sold out. 
 Thanks to everyone who has already purchased a ticket. Regular independent
 and corporate tickets are now available. 
 
-We do expect the conference to sell out fully, so 
+We do expect the conference to sell out, so 
 [buy your tickets](https://ti.to/writethedocs/write-the-docs-eu-2015/) today.
 
 ## Videos from Write the Docs Europe 2014
